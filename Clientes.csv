@@ -1,0 +1,105 @@
+﻿ID Cliente ;Idade ;Gênero;Data_Castrado;Localidade
+SSMM55001;61;Feminino;21/07/2014;Rio de Janeiro
+SSMM55002;45;Feminino;23/07/2014;Minas Gerais
+SSMM55003;55;Feminino;23/07/2014;São Paulo
+SSMM55004;41;Masculino;23/07/2014;São Paulo
+SSMM55005;68;Feminino;23/07/2014;Espírito Santo
+SSMM55006;56;Feminino;23/07/2014;Rio de Janeiro
+SSMM55007;74;Feminino;23/07/2014;Minas Gerais
+SSMM55008;77;Feminino;23/07/2014;São Paulo
+SSMM55009;62;Masculino;23/07/2014;São Paulo
+SSMM55010;65;Feminino;24/07/2014;Espírito Santo
+SSMM55011;54;Feminino;25/07/2014;Rio de Janeiro
+SSMM55012;57;Masculino;25/07/2014;Minas Gerais
+SSMM55013;56;Feminino;26/07/2014;São Paulo
+SSMM55014;51;Feminino;26/07/2014;São Paulo
+SSMM55015;66;Masculino;26/07/2014;Espírito Santo
+SSMM55016;48;Feminino;26/07/2014;Rio de Janeiro
+SSMM55017;76;Masculino;26/07/2014;Minas Gerais
+SSMM55018;65;Feminino;26/07/2014;São Paulo
+SSMM55019;59;Feminino;26/07/2014;São Paulo
+SSMM55020;43;Feminino;28/07/2014;Espírito Santo
+SSMM55021;53;Feminino;28/07/2014;Rio de Janeiro
+SSMM55022;61;Masculino;28/07/2014;Minas Gerais
+SSMM55023;44;Feminino;30/07/2014;São Paulo
+SSMM55024;66;Feminino;31/07/2014;São Paulo
+SSMM55025;75;Feminino;31/07/2014;Espírito Santo
+SSMM55026;69;Masculino;31/07/2014;Rio de Janeiro
+SSMM55027;37;Feminino;01/08/2014;Minas Gerais
+SSMM55028;42;Feminino;01/08/2014;São Paulo
+SSMM55029;51;Masculino;01/08/2014;São Paulo
+SSMM55030;60;Masculino;01/08/2014;Espírito Santo
+SSMM55031;59;Feminino;02/08/2014;Rio de Janeiro
+SSMM55032;61;Feminino;02/08/2014;Minas Gerais
+SSMM55033;18;Feminino;03/08/2014;São Paulo
+SSMM55034;46;Masculino;03/08/2014;São Paulo
+SSMM55035;58;Feminino;03/08/2014;Espírito Santo
+SSMM55036;42;Masculino;04/08/2014;Rio de Janeiro
+SSMM55037;48;Feminino;04/08/2014;Minas Gerais
+SSMM55038;56;Feminino;05/08/2014;São Paulo
+SSMM55039;78;Masculino;05/08/2014;São Paulo
+SSMM55040;42;Masculino;05/08/2014;Espírito Santo
+SSMM55041;52;Feminino;06/08/2014;Rio de Janeiro
+SSMM55042;44;Feminino;06/08/2014;Minas Gerais
+SSMM55043;27;Feminino;07/08/2014;São Paulo
+SSMM55044;61;Masculino;07/08/2014;São Paulo
+SSMM55045;64;Feminino;08/08/2014;Rio de Janeiro
+SSMM55046;59;Feminino;09/08/2014;Minas Gerais
+SSMM55047;39;Feminino;10/08/2014;São Paulo
+SSMM55048;57;Feminino;10/08/2014;São Paulo
+SSMM55049;46;Feminino;12/08/2014;Espírito Santo
+SSMM55050;48;Feminino;13/08/2014;Rio de Janeiro
+SSMM55051;41;Feminino;15/08/2014;São Paulo
+SSMM55052;59;Masculino;16/08/2014;São Paulo
+SSMM55053;70;Feminino;16/08/2014;Espírito Santo
+SSMM55054;52;Feminino;16/08/2014;Rio de Janeiro
+SSMM55055;56;Feminino;16/08/2014;Minas Gerais
+SSMM55056;62;Masculino;16/08/2014;São Paulo
+SSMM55057;62;Masculino;16/08/2014;São Paulo
+SSMM55058;73;Masculino;16/08/2014;Rio de Janeiro
+SSMM55059;62;Masculino;16/08/2014;Minas Gerais
+SSMM55060;49;Feminino;16/08/2014;Rio de Janeiro
+SSMM55061;62;Feminino;16/08/2014;Rio de Janeiro
+SSMM55062;67;Feminino;16/08/2014;Rio de Janeiro
+SSMM55063;34;Masculino;16/08/2014;Minas Gerais
+SSMM55064;43;Feminino;16/08/2014;São Paulo
+SSMM55065;53;Feminino;16/08/2014;São Paulo
+SSMM55066;65;Masculino;16/08/2014;Espírito Santo
+SSMM55067;17;Feminino;16/08/2014;Rio de Janeiro
+SSMM55068;73;Feminino;16/08/2014;Minas Gerais
+SSMM55069;49;Feminino;17/08/2014;Espírito Santo
+SSMM55070;30;Feminino;17/08/2014;Espírito Santo
+SSMM55071;53;Masculino;17/08/2014;Espírito Santo
+SSMM55072;47;Feminino;17/08/2014;Espírito Santo
+SSMM55073;59;Feminino;17/08/2014;Espírito Santo
+SSMM55074;70;Feminino;17/08/2014;Espírito Santo
+SSMM55075;65;Feminino;17/08/2014;Rio de Janeiro
+SSMM55076;54;Feminino;17/08/2014;Rio de Janeiro
+SSMM55077;30;Feminino;17/08/2014;São Paulo
+SSMM55078;69;Feminino;17/08/2014;Rio de Janeiro
+SSMM55079;70;Feminino;17/08/2014;Rio de Janeiro
+SSMM55080;49;Feminino;17/08/2014;Minas Gerais
+SSMM55081;65;Masculino;17/08/2014;Rio de Janeiro
+SSMM55082;67;Masculino;18/08/2014;Rio de Janeiro
+SSMM55083;45;Feminino;18/08/2014;Minas Gerais
+SSMM55084;61;Feminino;18/08/2014;São Paulo
+SSMM55085;62;Feminino;18/08/2014;São Paulo
+SSMM55086;58;Feminino;18/08/2014;São Paulo
+SSMM55087;37;Feminino;18/08/2014;Rio de Janeiro
+SSMM55088;23;Masculino;18/08/2014;São Paulo
+SSMM55089;59;Masculino;19/08/2014;Minas Gerais
+SSMM55090;67;Feminino;19/08/2014;São Paulo
+SSMM55091;58;Masculino;19/08/2014;São Paulo
+SSMM55092;54;Feminino;19/08/2014;São Paulo
+SSMM55093;50;Masculino;20/08/2014;Rio de Janeiro
+SSMM55094;66;Feminino;20/08/2014;São Paulo
+SSMM55095;71;Feminino;20/08/2014;Rio de Janeiro
+SSMM55096;68;Masculino;20/08/2014;Rio de Janeiro
+SSMM55097;30;Feminino;20/08/2014;São Paulo
+SSMM55098;61;Masculino;20/08/2014;São Paulo
+SSMM55099;75;Feminino;20/08/2014;Minas Gerais
+SSMM55100;69;Feminino;20/08/2014;Minas Gerais
+SSMM55101;58;Feminino;21/08/2014;São Paulo
+SSMM55102;47;Masculino;21/08/2014;São Paulo
+SSMM55103;32;Masculino;21/08/2014;São Paulo
+SSMM55104;41;Feminino;21/08/2014;São Paulo

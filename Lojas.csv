@@ -1,0 +1,31 @@
+﻿Cod_Loja;Qtdade_Lojas;Cidade;Departamento
+A5;10;Rio de Janeiro;Brinquedos
+B5;20;Minas Gerais;Brinquedos
+C5;35;São Paulo;Brinquedos
+D5;17;Espírito Santo;Brinquedos
+E5;8;São Paulo;Brinquedos
+A6;14;Rio de Janeiro;cosmeticos
+B6;28;Minas Gerais;cosmeticos
+C6;48;São Paulo;cosmeticos
+D6;24;Espírito Santo;cosmeticos
+E6;11;São Paulo;cosmeticos
+A1;18;Rio de Janeiro;Eletronicos
+B1;36;Minas Gerais;Eletronicos
+C1;61;São Paulo;Eletronicos
+D1;30;Espírito Santo;Eletronicos
+E1;14;São Paulo;Eletronicos
+A3;10;Rio de Janeiro;Jardim
+B3;20;Minas Gerais;Jardim
+C3;35;São Paulo;Jardim
+D3;17;Espírito Santo;Jardim
+E3;8;Sao Paulo;Jardim
+A2;3;Rio de Janeiro;mobilia
+B2;6;Minas Gerais;mobilia
+C2;11;Sao Paulo;mobilia
+D2;5;Espírito Santo;mobilia
+E2;2;São Paulo;mobilia
+A4;27;Rio de Janeiro;Roupas
+B4;58;Minas Gerais;Roupas
+C4;30;Sao Paulo;Roupas
+D4;14;Espírito Santo;Roupas
+E4;7;São Paulo;Roupas
